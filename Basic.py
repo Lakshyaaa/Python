@@ -1,5 +1,7 @@
 #1      Calculate the multiplication and sum of two number
 #Simple without def
+
+#Lakshya
 """
 a = int(input('Enter first Number'))
 b = int(input('Enter second Number'))
